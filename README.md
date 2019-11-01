@@ -10,7 +10,9 @@ Mr-YuanHe
 
 ### 最新
 
-* [华为--HCIA](http://www.yuanheweb.com/articles/2019/10/31/1572489747535.html)
+* [华为 HCIA-Big Data 单选题](http://www.yuanheweb.com/articles/2019/11/01/1572569616402.html)
+* [华为 HCIA-Big Data 多选题](http://www.yuanheweb.com/articles/2019/10/31/1572499122477.html)
+* [华为 HCIA-Big Data 判断题](http://www.yuanheweb.com/articles/2019/10/31/1572489747535.html)
 * [MySQL的CRUD](http://www.yuanheweb.com/articles/2019/10/25/1572018542775.html)
 * [MySQL创建用户并授权](http://www.yuanheweb.com/articles/2019/10/25/1572017996312.html)
 * [Java面试题大纲](http://www.yuanheweb.com/articles/2019/10/17/1571301954596.html)
@@ -28,8 +30,6 @@ Mr-YuanHe
 * [Redis面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300148246.html)
 * [JVM面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300060790.html)
 * [补充面试题](http://www.yuanheweb.com/articles/2019/10/17/1571299896461.html)
-* [XML](http://www.yuanheweb.com/articles/2019/09/26/1569511697360.html)
-* [Bootstrap](http://www.yuanheweb.com/articles/2019/09/24/1569320819776.html)
 
 ### 热门
 
@@ -46,6 +46,7 @@ Mr-YuanHe
 * [CSS学习](http://www.yuanheweb.com/articles/2019/09/17/1568651723977.html)
 * [HTML学习](http://www.yuanheweb.com/articles/2019/09/17/1568651293523.html)
 * [jQuery](http://www.yuanheweb.com/articles/2019/09/18/1568813407846.html)
+* [Bootstrap](http://www.yuanheweb.com/articles/2019/09/24/1569320819776.html)
 * [Linux文件处理命令](http://www.yuanheweb.com/articles/2019/09/15/1568547117311.html)
 * [JavaScript基础教程](http://www.yuanheweb.com/articles/2019/09/18/1568812155818.html)
 * [Linux目录结构](http://www.yuanheweb.com/articles/2019/09/15/1568540856966.html)
@@ -53,7 +54,9 @@ Mr-YuanHe
 * [前端学习代码](http://www.yuanheweb.com/articles/2019/09/18/1568818883145.html)
 * [jQuery插件](http://www.yuanheweb.com/articles/2019/09/24/1569318733397.html)
 
+### 热议
 
+* [XML](http://www.yuanheweb.com/articles/2019/09/26/1569511697360.html)
 
 ---
 
