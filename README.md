@@ -33,9 +33,9 @@ Mr-YuanHe
 
 ### 热门
 
+* [CentOS 7 安装MySQL 5.7](http://www.yuanheweb.com/articles/2019/09/16/1568611730681.html)
 * [JavaScript基础教程](http://www.yuanheweb.com/articles/2019/09/17/1568719612924.html)
 * [war包方式部署solo博客](http://www.yuanheweb.com/articles/2019/09/21/1568995728707.html)
-* [CentOS 7 安装MySQL 5.7](http://www.yuanheweb.com/articles/2019/09/16/1568611730681.html)
 * [JavaScript基础教程](http://www.yuanheweb.com/articles/2019/09/17/1568719908797.html)
 * [Java基本语法](http://www.yuanheweb.com/articles/2019/09/15/1568531187918.html)
 * [HTML学习](http://www.yuanheweb.com/articles/2019/09/17/1568652644765.html)
