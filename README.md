@@ -10,6 +10,7 @@ Mr-YuanHe
 
 ### 最新
 
+* [Java笔记](http://www.yuanheweb.com/articles/2019/11/03/1572777896478.html)
 * [华为 HCIA-Big Data 单选题](http://www.yuanheweb.com/articles/2019/11/01/1572569616402.html)
 * [华为 HCIA-Big Data 多选题](http://www.yuanheweb.com/articles/2019/10/31/1572499122477.html)
 * [华为 HCIA-Big Data 判断题](http://www.yuanheweb.com/articles/2019/10/31/1572489747535.html)
@@ -29,7 +30,6 @@ Mr-YuanHe
 * [MySQL面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300601470.html)
 * [Redis面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300148246.html)
 * [JVM面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300060790.html)
-* [补充面试题](http://www.yuanheweb.com/articles/2019/10/17/1571299896461.html)
 
 ### 热门
 
@@ -57,6 +57,7 @@ Mr-YuanHe
 ### 热议
 
 * [XML](http://www.yuanheweb.com/articles/2019/09/26/1569511697360.html)
+* [补充面试题](http://www.yuanheweb.com/articles/2019/10/17/1571299896461.html)
 
 ---
 
