@@ -10,7 +10,8 @@ Mr-YuanHe
 
 ### 最新
 
-* [Java笔记](http://www.yuanheweb.com/articles/2019/11/03/1572777896478.html)
+* [Java每天十道题 - day02](http://www.yuanheweb.com/articles/2019/11/04/1572867006098.html)
+* [Java每天十道题 - day01](http://www.yuanheweb.com/articles/2019/11/03/1572777896478.html)
 * [华为 HCIA-Big Data 单选题](http://www.yuanheweb.com/articles/2019/11/01/1572569616402.html)
 * [华为 HCIA-Big Data 多选题](http://www.yuanheweb.com/articles/2019/10/31/1572499122477.html)
 * [华为 HCIA-Big Data 判断题](http://www.yuanheweb.com/articles/2019/10/31/1572489747535.html)
@@ -29,7 +30,6 @@ Mr-YuanHe
 * [Kafka、Zookeeper面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300692656.html)
 * [MySQL面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300601470.html)
 * [Redis面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300148246.html)
-* [JVM面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300060790.html)
 
 ### 热门
 
@@ -43,8 +43,9 @@ Mr-YuanHe
 * [CentOS 7安装JDK1.8 ](http://www.yuanheweb.com/articles/2019/09/20/1568989171576.html)
 * [jQuery](http://www.yuanheweb.com/articles/2019/09/18/1568813221540.html)
 * [Python基础教程](http://www.yuanheweb.com/articles/2019/09/19/1568875782008.html)
-* [CSS学习](http://www.yuanheweb.com/articles/2019/09/17/1568651723977.html)
 * [Bootstrap](http://www.yuanheweb.com/articles/2019/09/24/1569320819776.html)
+* [JVM面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300060790.html)
+* [CSS学习](http://www.yuanheweb.com/articles/2019/09/17/1568651723977.html)
 * [HTML学习](http://www.yuanheweb.com/articles/2019/09/17/1568651293523.html)
 * [JavaScript基础教程](http://www.yuanheweb.com/articles/2019/09/18/1568812155818.html)
 * [jQuery](http://www.yuanheweb.com/articles/2019/09/18/1568813407846.html)
@@ -52,10 +53,10 @@ Mr-YuanHe
 * [Linux目录结构](http://www.yuanheweb.com/articles/2019/09/15/1568540856966.html)
 * [CSS晋级](http://www.yuanheweb.com/articles/2019/09/17/1568652160688.html)
 * [前端学习代码](http://www.yuanheweb.com/articles/2019/09/18/1568818883145.html)
-* [jQuery插件](http://www.yuanheweb.com/articles/2019/09/24/1569318733397.html)
 
 ### 热议
 
+* [jQuery插件](http://www.yuanheweb.com/articles/2019/09/24/1569318733397.html)
 * [XML](http://www.yuanheweb.com/articles/2019/09/26/1569511697360.html)
 * [补充面试题](http://www.yuanheweb.com/articles/2019/10/17/1571299896461.html)
 
