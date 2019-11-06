@@ -10,6 +10,7 @@ Mr-YuanHe
 
 ### 最新
 
+* [Java每天十道题 - day03](http://www.yuanheweb.com/articles/2019/11/05/1572933061054.html)
 * [Java每天十道题 - day02](http://www.yuanheweb.com/articles/2019/11/04/1572867006098.html)
 * [Java每天十道题 - day01](http://www.yuanheweb.com/articles/2019/11/03/1572777896478.html)
 * [华为 HCIA-Big Data 单选题](http://www.yuanheweb.com/articles/2019/11/01/1572569616402.html)
@@ -29,7 +30,6 @@ Mr-YuanHe
 * [MyBatis面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300971624.html)
 * [Kafka、Zookeeper面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300692656.html)
 * [MySQL面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300601470.html)
-* [Redis面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300148246.html)
 
 ### 热门
 
@@ -41,6 +41,7 @@ Mr-YuanHe
 * [HTML学习](http://www.yuanheweb.com/articles/2019/09/17/1568652644765.html)
 * [CentOS 7 卸载MySQL 5.7](http://www.yuanheweb.com/articles/2019/09/16/1568616652854.html)
 * [CentOS 7安装JDK1.8 ](http://www.yuanheweb.com/articles/2019/09/20/1568989171576.html)
+* [Redis面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300148246.html)
 * [jQuery](http://www.yuanheweb.com/articles/2019/09/18/1568813221540.html)
 * [Python基础教程](http://www.yuanheweb.com/articles/2019/09/19/1568875782008.html)
 * [Bootstrap](http://www.yuanheweb.com/articles/2019/09/24/1569320819776.html)
@@ -52,10 +53,10 @@ Mr-YuanHe
 * [Linux文件处理命令](http://www.yuanheweb.com/articles/2019/09/15/1568547117311.html)
 * [Linux目录结构](http://www.yuanheweb.com/articles/2019/09/15/1568540856966.html)
 * [CSS晋级](http://www.yuanheweb.com/articles/2019/09/17/1568652160688.html)
-* [前端学习代码](http://www.yuanheweb.com/articles/2019/09/18/1568818883145.html)
 
 ### 热议
 
+* [前端学习代码](http://www.yuanheweb.com/articles/2019/09/18/1568818883145.html)
 * [jQuery插件](http://www.yuanheweb.com/articles/2019/09/24/1569318733397.html)
 * [XML](http://www.yuanheweb.com/articles/2019/09/26/1569511697360.html)
 * [补充面试题](http://www.yuanheweb.com/articles/2019/10/17/1571299896461.html)
