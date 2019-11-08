@@ -10,6 +10,7 @@ Mr-YuanHe
 
 ### 最新
 
+* [Java每天十道题 - day05](http://www.yuanheweb.com/articles/2019/11/07/1573130081367.html)
 * [Java每天十道题 - day04](http://www.yuanheweb.com/articles/2019/11/06/1573034428639.html)
 * [史上最全的项目开发jar依赖](http://www.yuanheweb.com/articles/2019/11/06/1573023979715.html)
 * [Java每天十道题 - day03](http://www.yuanheweb.com/articles/2019/11/05/1572933061054.html)
@@ -29,7 +30,6 @@ Mr-YuanHe
 * [Java异常、网络、设计模式面试题](http://www.yuanheweb.com/articles/2019/10/17/1571301158697.html)
 * [SpringSpring MVC面试题](http://www.yuanheweb.com/articles/2019/10/17/1571301078556.html)
 * [Spring Boot、Spring Cloud面试题](http://www.yuanheweb.com/articles/2019/10/17/1571301027506.html)
-* [MyBatis面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300971624.html)
 
 ### 热门
 
@@ -40,8 +40,8 @@ Mr-YuanHe
 * [Java基本语法](http://www.yuanheweb.com/articles/2019/09/15/1568531187918.html)
 * [HTML学习](http://www.yuanheweb.com/articles/2019/09/17/1568652644765.html)
 * [CentOS 7 卸载MySQL 5.7](http://www.yuanheweb.com/articles/2019/09/16/1568616652854.html)
-* [CentOS 7安装JDK1.8 ](http://www.yuanheweb.com/articles/2019/09/20/1568989171576.html)
 * [JVM面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300060790.html)
+* [CentOS 7安装JDK1.8 ](http://www.yuanheweb.com/articles/2019/09/20/1568989171576.html)
 * [Redis面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300148246.html)
 * [jQuery](http://www.yuanheweb.com/articles/2019/09/18/1568813221540.html)
 * [Python基础教程](http://www.yuanheweb.com/articles/2019/09/19/1568875782008.html)
@@ -62,6 +62,7 @@ Mr-YuanHe
 * [jQuery插件](http://www.yuanheweb.com/articles/2019/09/24/1569318733397.html)
 * [XML](http://www.yuanheweb.com/articles/2019/09/26/1569511697360.html)
 * [补充面试题](http://www.yuanheweb.com/articles/2019/10/17/1571299896461.html)
+* [MyBatis面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300971624.html)
 
 ---
 
