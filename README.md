@@ -52,12 +52,13 @@ Mr-YuanHe
 * [CSS学习](http://www.yuanheweb.com/articles/2019/09/17/1568651723977.html)
 * [SpringSpring MVC面试题](http://www.yuanheweb.com/articles/2019/10/17/1571301078556.html)
 * [Java反射、对象拷贝面试题](http://www.yuanheweb.com/articles/2019/10/17/1571301251387.html)
-* [HTML学习](http://www.yuanheweb.com/articles/2019/09/17/1568651293523.html)
+* [Java多线程面试题](http://www.yuanheweb.com/articles/2019/10/17/1571301513531.html)
 
 ### 热议
 
 * [Linux目录结构](http://www.yuanheweb.com/articles/2019/09/15/1568540856966.html)
 * [Linux文件处理命令](http://www.yuanheweb.com/articles/2019/09/15/1568547117311.html)
+* [HTML学习](http://www.yuanheweb.com/articles/2019/09/17/1568651293523.html)
 * [CSS晋级](http://www.yuanheweb.com/articles/2019/09/17/1568652160688.html)
 * [JavaScript基础教程](http://www.yuanheweb.com/articles/2019/09/18/1568812155818.html)
 * [jQuery](http://www.yuanheweb.com/articles/2019/09/18/1568813407846.html)
@@ -70,7 +71,6 @@ Mr-YuanHe
 * [MyBatis面试题](http://www.yuanheweb.com/articles/2019/10/17/1571300971624.html)
 * [Spring Boot、Spring Cloud面试题](http://www.yuanheweb.com/articles/2019/10/17/1571301027506.html)
 * [Java异常、网络、设计模式面试题](http://www.yuanheweb.com/articles/2019/10/17/1571301158697.html)
-* [Java多线程面试题](http://www.yuanheweb.com/articles/2019/10/17/1571301513531.html)
 
 ---
 
